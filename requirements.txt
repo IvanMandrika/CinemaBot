@@ -1,0 +1,3 @@
+aiohttp==3.10.5
+yarl==1.11.1
+aiogram~=3.17.0
